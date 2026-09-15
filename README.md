@@ -6,6 +6,8 @@
 <p align="center">
   <a href="https://myweb-nine-amber.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-b6215f?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="mailto:parkjibin1018@naver.com"><img src="https://img.shields.io/badge/Email-b6215f?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=wlqls1019&color=b6215f&style=for-the-badge&label=VISITORS" />
+</p>
 </p>
 
 ---
@@ -24,6 +26,18 @@
   <img src="https://img.shields.io/badge/Python-b6215f?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-b6215f?style=flat-square&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Burp%20Suite-b6215f?style=flat-square&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-b6215f?style=flat-square&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-b6215f?style=flat-square&logo=git&logoColor=white" />
+</p>
+
+### 📊 GitHub Stats
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=wlqls1019&show_icons=true&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wlqls1019&layout=compact&theme=radical&hide_border=true" />
+</p>
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wlqls1019&theme=radical&hide_border=true" />
 </p>
 
 ### 📫 Contact
