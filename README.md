@@ -4,7 +4,7 @@
 <p align="center">보안과 개발을 동시에 아우르는 사람입니다.</p>
 
 <p align="center">
-  <a href="[https://jibinlab.com](https://myweb-nine-amber.vercel.app/)"><img src="https://img.shields.io/badge/Portfolio-b6215f?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://myweb-nine-amber.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-b6215f?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="mailto:parkjibin1018@naver.com"><img src="https://img.shields.io/badge/Email-b6215f?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
