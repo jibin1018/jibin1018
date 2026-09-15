@@ -26,14 +26,7 @@
   <img src="https://img.shields.io/badge/Burp%20Suite-b6215f?style=flat-square&logo=burpsuite&logoColor=white" />
 </p>
 
-### 📊 GitHub Stats
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=wlqls1019&show_icons=true&theme=radical&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wlqls1019&layout=compact&theme=radical&hide_border=true" />
-</p>
-
 ### 📫 Contact
 
 - Email: parkjibin1018@naver.com
-- Portfolio: [jibinlab.com](https://jibinlab.com)
+- Portfolio: https://myweb-nine-amber.vercel.app/
